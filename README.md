@@ -21,4 +21,3 @@ The panel will draw links from the first column of data points, to the last in o
 - **Headers** The column headers can be changed by using a Display Name override in the editor panel.  They will be the same color you choose for Text color
 - **Sankey Layout** The layout of the sankey links can be adjusted slightly using the "Layout iteration" slider. This number must be an integer and is the number of relaxation iterations used to generate the layout.
 
-
